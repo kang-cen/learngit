@@ -3,4 +3,4 @@ Git is a distributed version control system
 Git is free software distributed under GPL.
 Git tracks changes
 Git has a mutable index calles stage.
-你好，未来
+Git nice,but need VPN.
